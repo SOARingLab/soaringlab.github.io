@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## SOARing Lab
 
-You can use the [editor on GitHub](https://github.com/SOARingLab/soaringlab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+实验室简介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 内部服务列表
+> 请在校园网或者VPN环境下访问
 
-### Markdown
+- 校园网VPN	[深信服使用指南](http://www.ecampus.fudan.edu.cn/sxfsyzn/list.htm)
+- 代码托管	[GitLab:	https://gitlab.soaringlab.top](https://gitlab.soaringlab.top)
+- 私有云盘	[NextCloud:	https://nextcloud.soaringlab.top](https://nextcloud.soaringlab.top)
+- 身份管理	[FreeIPA: 	https://ipa.soaringlab.top](https://ipa.soaringlab.top)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SOARingLab/soaringlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
